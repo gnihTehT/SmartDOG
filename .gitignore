@@ -1,0 +1,33 @@
+# --- Vercel ---
+.vercel/
+**/ .vercel/
+
+# --- 系统文件 ---
+.DS_Store
+Thumbs.db
+project_structure.txt
+
+# --- 开发依赖 ---
+node_modules/
+**/node_modules/
+dist/
+build/
+
+# --- 配置文件与密钥 (核心安全) ---
+.env
+.env.local
+server/.env
+**/config.json
+*.pem
+secrets.js
+
+# --- IDE/编辑器配置 ---
+.vscode/
+.idea/
+*.swp
+*.sublime-project
+
+# --- 日志 ---
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
