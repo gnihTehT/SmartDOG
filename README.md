@@ -34,7 +34,7 @@ SmartDoge 是一款融合了 **Lottie 交互动画**、**ReAct (Reasoning and Ac
 ```bash
 git clone [https://github.com/your-repo/smart-doge-agent.git](https://github.com/your-repo/smart-doge-agent.git)
 cd smart-doge-agent
-
+```
 ### 2. 后端配置 (Server)
 在 /server 目录下创建 .env 文件，并配置以下环境变量：
 
