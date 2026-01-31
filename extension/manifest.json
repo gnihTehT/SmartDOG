@@ -11,10 +11,11 @@
       "css": ["style.css"]
     }
   ],
-  "web_accessible_resources": [
+"web_accessible_resources": [
     {
-      "resources": ["Doge.json"],
+      "resources": ["Doge.json", "images/GoodHunter.png"],
       "matches": ["<all_urls>"]
     }
   ]
+  
 }
