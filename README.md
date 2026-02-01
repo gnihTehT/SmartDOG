@@ -1,7 +1,7 @@
-# 🛰️ SmartDoge: Tactical On-chain AI Agent
+# 🛰️ SmartDog: Tactical On-chain AI Agent
 > **基于 SpoonOS Framework 的机能风 Web3 战术侦察助手**
 
-SmartDoge 是一款融合了 **Lottie 交互动画**、**ReAct (Reasoning and Acting) 思考模型**与 **Moralis 实时链上数据**的 Chrome 扩展插件。它像一只数字猎犬，潜伏在你的浏览器中，随时准备对任何加密信号（地址、哈希）进行深度扫描与战术分析。
+SmartDog 是一款融合了 **Lottie 交互动画**、**ReAct (Reasoning and Acting) 思考模型**与 **Moralis 实时链上数据**的 Chrome 扩展插件。它像一只数字猎犬，潜伏在你的浏览器中，随时准备对任何加密信号（地址、哈希）进行深度扫描与战术分析。
 
 ---
 
